@@ -1,2 +1,3 @@
 .env
-ai_env/
+code/ai_env/
+__pycache__/
